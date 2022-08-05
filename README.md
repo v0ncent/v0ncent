@@ -2,4 +2,4 @@
 # v0ncent
 Coding and Art
 
-Art insta @v0ncent
+Art insta @v0ncent <img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
