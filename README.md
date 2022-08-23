@@ -1,3 +1,5 @@
+![alt text](https://github.com/v0ncent/v0ncent/blob/main/PortraitNOxx.jpg?raw=true)
+
 
 --What I Use--
 
