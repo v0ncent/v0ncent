@@ -1,5 +1,7 @@
-![alt text](https://github.com/v0ncent/v0ncent/blob/main/PortraitNOxx.jpg?raw=true)
+<img src="https://github.com/v0ncent/v0ncent/blob/main/PotraitNOxx.jpg" />
 
+
+Hello my name is v0ncent, im currently a Computer Science student on the path to becoming a full time developer at Augsburg University in Minneapolis Minnesota!
 
 --What I Use--
 
