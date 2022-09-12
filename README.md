@@ -11,4 +11,6 @@ Hello my name is v0ncent, im currently a Computer Science student on the path to
 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v0ncent/)
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 
